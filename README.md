@@ -1,4 +1,4 @@
-# 🚲 Yulu Demand Analysis — Hypothesis Testing & Statistical Modeling
+# 🚲 Yulu Demand Analysis - Hypothesis Testing & Statistical Modeling
 
 ## 🎯 Overview
 This project explores factors affecting demand for shared electric bicycles using hypothesis testing and statistical analysis techniques.  
